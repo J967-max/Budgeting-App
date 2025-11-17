@@ -1,0 +1,5 @@
+{
+  "name": "Digital Envelope Budget",
+  "description": "A simple and visually appealing digital envelope budgeting application to help you track your spending in various categories. Create envelopes for different expenses, add funds, and record transactions to see how much you have left at a glance.",
+  "requestFramePermissions": []
+}
